@@ -8,4 +8,4 @@ Used Power BI
 - DAX (SAMEPERIODLASTYEAR, CALCULATE, DIVIDE for % growth)
 - Report design (drill-down hierarchies, cross-filtering, slicers, matrix visuals)
 
-# PDF File
+Dashboard exported to PDF File
